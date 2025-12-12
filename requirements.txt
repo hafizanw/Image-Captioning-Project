@@ -1,0 +1,37 @@
+# Image Captioning Project
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Image Processing
+Pillow>=9.0.0
+opencv-python>=4.8.0
+
+# Data Processing & Numerical Computing
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.10.0
+
+# Machine Learning Utilities
+scikit-learn>=1.2.0
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Progress Bars & Utilities
+tqdm>=4.65.0
+
+# Jupyter Notebook Environment
+jupyterlab>=3.6.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+ipywidgets>=8.0.0
+
+# Additional Utilities
+h5py>=3.8.0
